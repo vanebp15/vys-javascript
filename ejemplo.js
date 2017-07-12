@@ -5,7 +5,7 @@
  }
  else{
 	//lo que se hace si NO se cumple la condición
-	alert("mejor quedeswe durmiendo en la casa");
+	alert("dígale al profesor como hacer la clase más divetrida);
 }
 
 
